@@ -1,0 +1,43 @@
+body {
+font-family: sans-serif;
+}
+
+header {
+text-align: center;
+}
+
+main {
+width: 80%;
+margin: 0 auto;
+}
+
+section {
+padding: 20px;
+}
+
+h2 {
+text-align: center;
+}
+
+ul {
+list-style-type: none;
+padding-left: 20px;
+}
+
+.btn {
+background-color: blue;
+color: white;
+padding: 10px;
+border-radius: 5px;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+main {
+width: 100%;
+}
+}
