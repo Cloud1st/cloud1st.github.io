@@ -68,7 +68,7 @@ type="email"
  
 name="email"
  
-placeholder="Your Email">
+placeholder="Prowayam@gmail.com">
 
 <input
  
@@ -76,7 +76,7 @@ type="phone"
  
 name="phone"
  
-placeholder="Your Phone Number">
+placeholder="https://wa.me/919742970789">
 <textarea name="message" placeholder="Your Message"></textarea>
 <input type="submit" value="Send Message">
 </form>
